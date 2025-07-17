@@ -1,2 +1,1 @@
-# OmegaWebPage
-Omega Web Page
+# Omega Technologies
